@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "116843999650",
+    "firebase_url": "https://todo-fire-7d085.firebaseio.com",
+    "project_id": "todo-fire-7d085",
+    "storage_bucket": "todo-fire-7d085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116843999650:android:b9c7ef6f1685dbdf",
+        "android_client_info": {
+          "package_name": "ninja.hackemate.todo_fire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "116843999650-0iff6cvdmc0calafttp4mdt14fpcq2d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjIcH_p-wUWgHoIGE-m1T4AUHnObeeipA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
